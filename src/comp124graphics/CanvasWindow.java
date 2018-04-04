@@ -9,6 +9,8 @@ import java.io.IOException;
 import java.util.Iterator;
 import java.util.concurrent.ConcurrentLinkedDeque;
 
+import static util.loggers.StaticLogger.*;
+
 /**
  * Creates a window frame and canvas panel that is used to draw graphical objects.
  * Created by bjackson on 9/13/2016.
